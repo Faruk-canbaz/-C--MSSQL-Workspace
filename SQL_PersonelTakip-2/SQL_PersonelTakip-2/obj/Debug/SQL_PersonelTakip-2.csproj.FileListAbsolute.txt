@@ -1,0 +1,11 @@
+C:\Users\OmerFarukCanbaz\source\repos\udemy_course\SQL_PersonelTakip-2\SQL_PersonelTakip-2\bin\Debug\SQL_PersonelTakip-2.exe.config
+C:\Users\OmerFarukCanbaz\source\repos\udemy_course\SQL_PersonelTakip-2\SQL_PersonelTakip-2\bin\Debug\SQL_PersonelTakip-2.exe
+C:\Users\OmerFarukCanbaz\source\repos\udemy_course\SQL_PersonelTakip-2\SQL_PersonelTakip-2\bin\Debug\SQL_PersonelTakip-2.pdb
+C:\Users\OmerFarukCanbaz\source\repos\udemy_course\SQL_PersonelTakip-2\SQL_PersonelTakip-2\obj\Debug\SQL_PersonelTakip-2.csproj.AssemblyReference.cache
+C:\Users\OmerFarukCanbaz\source\repos\udemy_course\SQL_PersonelTakip-2\SQL_PersonelTakip-2\obj\Debug\SQL_PersonelTakip-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\OmerFarukCanbaz\source\repos\udemy_course\SQL_PersonelTakip-2\SQL_PersonelTakip-2\obj\Debug\SQL_PersonelTakip_2.Form1.resources
+C:\Users\OmerFarukCanbaz\source\repos\udemy_course\SQL_PersonelTakip-2\SQL_PersonelTakip-2\obj\Debug\SQL_PersonelTakip_2.Properties.Resources.resources
+C:\Users\OmerFarukCanbaz\source\repos\udemy_course\SQL_PersonelTakip-2\SQL_PersonelTakip-2\obj\Debug\SQL_PersonelTakip-2.csproj.GenerateResource.cache
+C:\Users\OmerFarukCanbaz\source\repos\udemy_course\SQL_PersonelTakip-2\SQL_PersonelTakip-2\obj\Debug\SQL_PersonelTakip-2.csproj.CoreCompileInputs.cache
+C:\Users\OmerFarukCanbaz\source\repos\udemy_course\SQL_PersonelTakip-2\SQL_PersonelTakip-2\obj\Debug\SQL_PersonelTakip-2.exe
+C:\Users\OmerFarukCanbaz\source\repos\udemy_course\SQL_PersonelTakip-2\SQL_PersonelTakip-2\obj\Debug\SQL_PersonelTakip-2.pdb
